@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"ConsoleInput","l":"ConsoleInput()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"ConsoleInput","l":"getChoice(String[], String)","url":"getChoice(java.lang.String[],java.lang.String)"},{"p":"<Unnamed>","c":"ConsoleInput","l":"getMultipleChoices(String[], String)","url":"getMultipleChoices(java.lang.String[],java.lang.String)"}]
